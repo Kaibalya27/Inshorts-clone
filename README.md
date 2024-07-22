@@ -24,3 +24,9 @@ This project is a simple news reader application built using Python. It fetches 
 ## Troubleshooting
 - If an article does not have an image, a default "No Image Available" image will be displayed.
 - Ensure that you have a valid API key and that the API endpoint is reachable.
+
+## Feedback and Contributions
+
+Feel free to provide feedback or contribute to this project. If you have suggestions for improvements or additional features, your contributions are welcome!
+
+[View the LinkedIn post for video demo](https://www.linkedin.com/posts/kaibalyamohapatra_python-tkinter-pil-activity-7221015221878898688-msf_?utm_source=share&utm_medium=member_desktop)
